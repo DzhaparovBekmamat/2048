@@ -1,16 +1,7 @@
-# two_zero_four_eight
+# 2048
 
-A new Flutter project.
+2048 is a simple and captivating puzzle game. Your objective is to merge tiles with the same numbers on a 4x4 grid, aiming to reach the tile with the value of 2048. Slide the tiles in any direction, and when two identical numbers collide, they combine into one. Every move introduces new tiles, adding a layer of strategy to the game. It's easy to start, but mastering it takes time and skill !
 
-## Getting Started
+## Demo Video
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![2048 Game Demo](http://img.youtube.com/vi/UqtIV7Ky2dY/0.jpg)](https://www.youtube.com/shorts/UqtIV7Ky2dY)
